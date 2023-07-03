@@ -27,7 +27,9 @@
         <hr>
         
         <h2>paragrafo censurato</h2>
+        
         <p> <?php echo $censored_paragraph; ?> </p>
         <p><strong>lunghezza paragrafo censurato;</strong> <?php echo $l_par_censored ?> </p>
+
     </body>
     </html>
